@@ -1,15 +1,16 @@
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-  GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+
+░█████╗░██╗████████╗░██████╗██╗░░░██╗██╗░░██╗██╗  ██╗░░██╗██╗░░░██╗██████╗░░█████╗░██╗
+██╔══██╗██║╚══██╔══╝██╔════╝██║░░░██║██║░██╔╝██║  ██║░██╔╝██║░░░██║██╔══██╗██╔══██╗██║
+███████║██║░░░██║░░░╚█████╗░██║░░░██║█████═╝░██║  █████═╝░██║░░░██║██████╔╝███████║██║
+██╔══██║██║░░░██║░░░░╚═══██╗██║░░░██║██╔═██╗░██║  ██╔═██╗░██║░░░██║██╔══██╗██╔══██║██║
+██║░░██║██║░░░██║░░░██████╔╝╚██████╔╝██║░╚██╗██║  ██║░╚██╗╚██████╔╝██║░░██║██║░░██║██║
+╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚═════╝░░╚═════╝░╚═╝░░╚═╝╚═╝  ╚═╝░░╚═╝░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝         
+  GIT : https://github.com/AitsukiKurai/Bot-ghost-status-remover-by-Aitsukikurai/edit/main/index.js
+  DISCORD SERVER : https://discord.gg/3KRSK7eF3H
+  YOUTUBE : https://www.youtube.com/channel/UCT7Np3WrjKYqzcbKXfXQZpQ
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by Aitsuki Kurai
  * **********************************************
  */
 
@@ -31,8 +32,8 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to RTX: http://localhost:${port}`);
-  console.log(`🔗 Powered By RTX`);
+  console.log(`🔗 Listening to Aitsuki Kurai: http://localhost:${port}`);
+  console.log(`🔗 Powered By Aitsuki Kurai`);
 });
 
 
@@ -53,17 +54,18 @@ async function login() {
 }
 
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+
+░█████╗░██╗████████╗░██████╗██╗░░░██╗██╗░░██╗██╗  ██╗░░██╗██╗░░░██╗██████╗░░█████╗░██╗
+██╔══██╗██║╚══██╔══╝██╔════╝██║░░░██║██║░██╔╝██║  ██║░██╔╝██║░░░██║██╔══██╗██╔══██╗██║
+███████║██║░░░██║░░░╚█████╗░██║░░░██║█████═╝░██║  █████═╝░██║░░░██║██████╔╝███████║██║
+██╔══██║██║░░░██║░░░░╚═══██╗██║░░░██║██╔═██╗░██║  ██╔═██╗░██║░░░██║██╔══██╗██╔══██║██║
+██║░░██║██║░░░██║░░░██████╔╝╚██████╔╝██║░╚██╗██║  ██║░╚██╗╚██████╔╝██║░░██║██║░░██║██║
+╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚═════╝░░╚═════╝░╚═╝░░╚═╝╚═╝  ╚═╝░░╚═╝░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝     
+GIT : https://github.com/AitsukiKurai/Bot-ghost-status-remover-by-Aitsukikurai/edit/main/index.js
+  DISCORD SERVER : https://discord.gg/3KRSK7eF3H
+  YOUTUBE : https://www.youtube.com/channel/UCT7Np3WrjKYqzcbKXfXQZpQ
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by Aitsuki Kurai
  * **********************************************
  */
 
@@ -104,16 +106,16 @@ client.once('ready', () => {
 login();
 
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+░█████╗░██╗████████╗░██████╗██╗░░░██╗██╗░░██╗██╗  ██╗░░██╗██╗░░░██╗██████╗░░█████╗░██╗
+██╔══██╗██║╚══██╔══╝██╔════╝██║░░░██║██║░██╔╝██║  ██║░██╔╝██║░░░██║██╔══██╗██╔══██╗██║
+███████║██║░░░██║░░░╚█████╗░██║░░░██║█████═╝░██║  █████═╝░██║░░░██║██████╔╝███████║██║
+██╔══██║██║░░░██║░░░░╚═══██╗██║░░░██║██╔═██╗░██║  ██╔═██╗░██║░░░██║██╔══██╗██╔══██║██║
+██║░░██║██║░░░██║░░░██████╔╝╚██████╔╝██║░╚██╗██║  ██║░╚██╗╚██████╔╝██║░░██║██║░░██║██║
+╚═╝░░╚═╝╚═╝░░░╚═╝░░░╚═════╝░░╚═════╝░╚═╝░░╚═╝╚═╝  ╚═╝░░╚═╝░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝        
+  GIT : https://github.com/AitsukiKurai/Bot-ghost-status-remover-by-Aitsukikurai/edit/main/index.js
+  DISCORD SERVER : https://discord.gg/3KRSK7eF3H
+  YOUTUBE : https://www.youtube.com/channel/UCT7Np3WrjKYqzcbKXfXQZpQ
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by Aitsuki Kurai
  * **********************************************
  */
