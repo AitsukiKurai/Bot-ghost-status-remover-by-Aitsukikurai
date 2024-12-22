@@ -37,7 +37,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["人の一生は朝霧のように一瞬で、運命は虚無に忘れ去られるように定められている"];
+const statusMessages = ["繁栄と許しを祈ります..."];
 
 
 let currentIndex = 0;
